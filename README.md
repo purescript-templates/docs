@@ -1,0 +1,1 @@
+This repo contains a collection of common documentation that is applicable to all templates.
